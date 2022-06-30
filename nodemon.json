@@ -1,0 +1,7 @@
+{
+    "env": {
+        "JWT_KEY": "secret",
+        "APP_PORT": 3001,
+        "HOST": "http://127.0.0.1"
+    }
+}
