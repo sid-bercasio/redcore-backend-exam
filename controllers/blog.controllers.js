@@ -37,7 +37,7 @@ module.exports = {
             details: details,
             content: content,
             category: category,
-            // imgUrl: filePath.length != 0 ? filePath : 'https://d1lp72kdku3ux1.cloudfront.net/title_instance/a52/small/398485.jpg',
+            imgUrl: 'https://d1lp72kdku3ux1.cloudfront.net/title_instance/a52/small/398485.jpg',
             created_by: ''
         }
 
